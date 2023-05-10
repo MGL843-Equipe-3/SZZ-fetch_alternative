@@ -1,5 +1,5 @@
 # Python script for SZZ Unleashed (fetch_alternative)
-- Sustitute to fetch.py
+- Substitute to fetch.py
 - Uses the GitHub API
 - 2.5 seconds sleeps to prevent any trouble with the GitHub API usage limit
 
