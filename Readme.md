@@ -27,3 +27,12 @@ Script pour remplacer le script fetch.py de szz unleashed
 	- os
 	- requests
 	- sys
+
+## Utiliser SZZ Unleashed
+
+```mermaid
+graph LR
+A((Repo Source)) --> B[fetch_alternative.py]
+B --> C(Fichier json)
+C --> D{SZZ Unleashed}
+```
