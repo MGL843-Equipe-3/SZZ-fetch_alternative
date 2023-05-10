@@ -2,7 +2,7 @@
 Script pour remplacer le script fetch.py de szz unleashed 
 
 - Utilise l'API github
-- sleep de 2.5 secondes pour s'assurer de ne pas être bloqué par la limite d'utilisation de l'API de githu 
+- sleep de 2.5 secondes pour s'assurer de ne pas être bloqué par la limite d'utilisation de l'API de github 
 
 
 ## Utilisation
