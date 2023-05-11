@@ -1,5 +1,5 @@
-# Python script for SZZ Unleashed (fetch_alternative)
-- Substitute to fetch.py
+# Python script for [SZZ Unleashed](https://github.com/wogscpar/SZZUnleashed) (fetch_alternative)
+- Substitute to [fetch.py](https://github.com/wogscpar/SZZUnleashed/blob/master/fetch_jira_bugs/fetch.py)
 - Uses the GitHub API
 - 2.5 seconds sleeps to prevent any trouble with the GitHub API usage limit
 
